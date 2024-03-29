@@ -1,2 +1,7 @@
-let x = Math.random() *2;
-console.log(x);
+function exclamationMark(word){
+
+    return word.replace(/!/g, '');
+    
+
+}
+

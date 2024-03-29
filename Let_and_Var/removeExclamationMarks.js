@@ -5,3 +5,4 @@ function removeExclamationMarks(s) {
   const originalString = "Hello! World!";
   const stringWithoutExclamationMarks = removeExclamationMarks(originalString);
   console.log(stringWithoutExclamationMarks); 
+  
